@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "MERGE.C": "cpp",
+        "SELECTION.C": "cpp",
+        "stdio.h": "c"
+    }
+}
